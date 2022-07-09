@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test",
+      "setup": "gcc Main.c",
+      "run": "./a.out",
+      "input": "",
+      "output": "Hello",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
